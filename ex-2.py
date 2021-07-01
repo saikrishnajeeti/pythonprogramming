@@ -1,0 +1,7 @@
+print("I will now count my chickens:")
+print("hens",25+30/6)
+print("Roosters",round(100-25*3%4))
+print("Now I will count the eggs:")
+print(round(3+2+1-5+4%2-1/4+6))
+print("it is true or false")
+print(3+2<5-7)
